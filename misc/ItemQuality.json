@@ -1,0 +1,10 @@
+{
+    "Quantum": {
+        "ItemQuality": [
+            "Common",
+            "Rare",
+            "Legendary",
+            "Unique"
+        ]
+    }
+}

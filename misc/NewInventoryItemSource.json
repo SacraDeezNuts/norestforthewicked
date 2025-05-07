@@ -1,0 +1,25 @@
+{
+    "Quantum": {
+        "NewInventoryItemSource": [
+            "InventoryInitialization",
+            "Initialization",
+            "StaticPickup",
+            "Loot",
+            "Cheat",
+            "Farming",
+            "Purchase",
+            "SilentLoot",
+            "Quest",
+            "Upgrade",
+            "Trade",
+            "Challenge",
+            "Bounty",
+            "Event",
+            "Payload",
+            "FromPlayerChest",
+            "RuneExtraction",
+            "Enchant",
+            "ViewSidePickup"
+        ]
+    }
+}

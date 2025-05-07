@@ -1,0 +1,16 @@
+{
+    "Quantum": {
+        "EquippableItemType": [
+            "None",
+            "Weapon",
+            "Gear",
+            "QuickItem",
+            "ConsumableAmmo",
+            "Tool",
+            "Arrows",
+            "Bolts",
+            "Food",
+            "Seed"
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "Quantum": {
+        "ItemStatTypeFlags": {
+            "Weight": 1,
+            "Durability": 4096,
+            "Damage": 2,
+            "FireDamage": 16384,
+            "ColdDamage": 32768,
+            "LightningDamage": 65536,
+            "PlagueDamage": 131072,
+            "PoiseDamage": 4,
+            "StaggerDamage": 524288,
+            "AttackStaminaCost": 8,
+            "FocusGainOnHit": 16,
+            "Armor": 32,
+            "ShieldArmor": 262144,
+            "PoiseDefense": 64,
+            "FocusGainOnBlock": 128,
+            "PoiseDamageOnBlock": 8192,
+            "FireArmor": 256,
+            "ColdArmor": 512,
+            "LightningArmor": 1024,
+            "PlagueArmor": 2048
+        }
+    }
+}

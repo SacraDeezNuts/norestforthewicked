@@ -1,0 +1,17 @@
+{
+  "Quantum": {
+    "EnchantableItemType": [
+      "None",
+      "Weapon",
+      "Bow",
+      "Body",
+      "Helm",
+      "Pants",
+      "Gloves",
+      "Ring",
+      "Shield",
+      "Armor",
+      "Any"
+    ]
+  }
+}

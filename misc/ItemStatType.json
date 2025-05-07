@@ -1,0 +1,26 @@
+{
+    "Quantum": {
+        "ItemStatType": [
+            "Weight",
+            "Durability",
+            "Damage",
+            "FireDamage",
+            "ColdDamage",
+            "LightningDamage",
+            "PlagueDamage",
+            "StaggerDamage",
+            "PoiseDamage",
+            "AttachStaminaCost",
+            "FocusGainOnHit",
+            "Armor",
+            "ShieldArmor",
+            "PoiseDefense",
+            "FocusGainOnBlock",
+            "PoiseDamageOnBlock",
+            "FireArmor",
+            "ColdArmor",
+            "LightningArmor",
+            "PlagueArmor"
+        ]
+    }
+}

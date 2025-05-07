@@ -1,0 +1,7 @@
+{
+  "Quantum": {
+    "CustomItemtype": [
+      "None, WeaponOIl, Component, Key, QuestItem, Rune, Ember, Gem, Readable"
+    ]
+  }
+}

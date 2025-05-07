@@ -1,0 +1,37 @@
+{
+    "Quantum": {
+        "ItemTypeClassificationB": [
+            "None",
+            "Tool",
+            "Shovel",
+            "Pickaxe",
+            "FishingRod",
+            "WoodcuttingAxe",
+            "Trinket",
+            "Ring",
+            "Amulet",
+            "Cloth",
+            "LeatherMaterial",
+            "Mesh",
+            "Plate",
+            "Trap",
+            "Root",
+            "Hide",
+            "Parts",
+            "Thread",
+            "Seeds",
+            "Ingot",
+            "Garment",
+            "LeatherResource",
+            "Planks",
+            "Fertilizer",
+            "Brick",
+            "RefinedResource",
+            "WateringCan",
+            "Hoe",
+            "Recipe",
+            "Cooking",
+            "Crafting"
+        ]
+    }
+}

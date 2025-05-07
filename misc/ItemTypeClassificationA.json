@@ -1,0 +1,39 @@
+{
+    "Quantum": {
+        "ItemTypeClassificationA": [
+            "None",
+            "Armor",
+            "Body",
+            "Helm",
+            "Pants",
+            "Gloves",
+            "QuestItem",
+            "Potion",
+            "WeaponOil",
+            "Bomb",
+            "Resources",
+            "Key",
+            "Rune",
+            "Consumable",
+            "Usable",
+            "Food",
+            "Ingredient",
+            "Component",
+            "Meat",
+            "Vegetation",
+            "Land",
+            "SeaMeat",
+            "Farmed",
+            "RawMeat",
+            "SimpleMeal",
+            "ElegantPlatter",
+            "SucculentFeast",
+            "Wood",
+            "Ore",
+            "Rock",
+            "Gem",
+            "Ember",
+            "Readable"
+        ]
+    }
+}

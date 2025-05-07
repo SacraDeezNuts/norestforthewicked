@@ -1,0 +1,13 @@
+{
+    "Quantum": {
+        "EquippedItemType": [
+            "None",
+            "ArmourHelmet",
+            "ArmourBody",
+            "ArmourPants",
+            "ArmourGloves",
+            "Mainhand",
+            "Offhand"
+        ]
+    }
+}
